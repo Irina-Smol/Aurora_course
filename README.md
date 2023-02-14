@@ -1,4 +1,4 @@
-# Avrora_course
+# Aurora_course
 
 ## Day 1
 
