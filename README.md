@@ -68,3 +68,7 @@ TELNET (англ.  TErminaL NETwork) — сетевой протокол для 
 
 1) Программирование мобильного приложения (скрипт, папка Work_with_device)
 2) Работа с мобильными устройствами, датчиками.
+
+ide:  Aurora SDK
+
+<img src="https://static.tildacdn.com/tild3561-3466-4566-b531-316638396232/__.png" >
