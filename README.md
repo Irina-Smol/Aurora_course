@@ -72,3 +72,5 @@ TELNET (англ.  TErminaL NETwork) — сетевой протокол для 
 ide:  Aurora SDK
 
 <img src="https://static.tildacdn.com/tild3561-3466-4566-b531-316638396232/__.png" >
+
+<img src="https://d-russia.ru/wp-content/uploads/2021/12/aurora_dev-1024x529.jpg" >
